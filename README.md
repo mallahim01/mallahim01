@@ -4,10 +4,17 @@
 
 ## 🌐 Socials:
 
-💼 LinkedIn: www.linkedin.com/in/syed-mallahim-ali-a2944b243
-📧 Email: smallahimali@gmail.com
-𝕏: https://x.com/MallahimAli
-🌐 Website: https://mallahim-portfolio.vercel.app/
+💼 **LinkedIn**  
+https://www.linkedin.com/in/syed-mallahim-ali-a2944b243  
+
+📧 **Email**  
+smallahimali@gmail.com  
+
+𝕏 **X (Twitter)**  
+https://x.com/MallahimAli  
+
+🌐 **Website**  
+https://mallahim-portfolio.vercel.app/
 
 
 ## 💻 Tech Stack
