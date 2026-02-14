@@ -17,7 +17,7 @@ https://x.com/MallahimAli
 https://mallahim-portfolio.vercel.app/
 
 
-## Tech Stack
+## Tech Stack:
 
 ### 🧠 Agentic AI & LLM Systems
 
