@@ -22,10 +22,12 @@ https://mallahim-portfolio.vercel.app/
 ### 🧠 Agentic AI & LLM Systems
 
 **Architectures**
+
 Agentic orchestration • Multi-agent systems • Model Context Protocol (MCP) • Agent-to-Agent (A2A) coordination  
 LLM pipelines • RAG architectures • Prompt orchestration • Model evaluation frameworks  
 
 **Frameworks & Tooling**
+
 PyTorch • TensorFlow • NVIDIA NeMo • scikit-learn • MLflow
 
 ### 🔎 Vector & Retrieval Systems
