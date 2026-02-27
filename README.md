@@ -14,7 +14,7 @@ smallahimali@gmail.com
 https://x.com/MallahimAli  
 
 **Website**  
-https://mallahim-portfolio.vercel.app/
+https://syedmallahimali.vercel.app/
 
 
 ## Tech Stack:
