@@ -42,17 +42,17 @@ An AI-powered HRMS concept using configurable multi-agent workflows to support r
 
 ---
 
-### [Architecture Product](https://github.com/mallahim01/architecture-product)
+### [ArchPilot AI — Architecture Planner](https://github.com/mallahim01/archpilot-ai-architecture-planner)
 
-A system design and architecture-focused repository exploring scalable backend architecture planning, AI product structure, and production-ready engineering patterns.
+An AI-assisted software architecture planning backend that guides users through structured product discovery conversations, captures requirements in stages, maintains durable chat context, and generates architecture-ready requirement documentation.
 
-**Focus areas:** System design, backend architecture, scalable AI products, product engineering
+**Focus areas:** AI architecture planning, product discovery, requirement generation, staged LLM workflows, persistent chat context, FastAPI backend
 
 ---
 
 ### [Hybrid RAG System with Milvus + OpenAI](https://github.com/mallahim01/hybrid-rag-system_milvus-openai)
 
-A production-style Retrieval-Augmented Generation system using OpenAI embeddings, Milvus vector search, and LLM-based response generation.
+A production-style Retrieval-Augmented Generation system using OpenAI embeddings, Milvus hybrid vector search, and LLM-based response generation.
 
 **Focus areas:** RAG architecture, semantic search, vector databases, LLM pipelines
 
@@ -63,6 +63,30 @@ A production-style Retrieval-Augmented Generation system using OpenAI embeddings
 A FastAPI-based starter backend demonstrating how multi-tenant AI SaaS platforms can manage tenant-specific configurations, API access, usage limits, request logs, and model settings.
 
 **Focus areas:** Multi-tenant architecture, AI SaaS platforms, tenant configuration, usage tracking, FastAPI
+
+---
+
+### [AI Image Generation Studio](https://github.com/mallahim01/ai-image-gen-studio)
+
+A multimodal AI product image studio that supports image generation, image editing, and multi-angle product preview generation using the OpenAI API. The project demonstrates how AI can be used to create and modify product visuals through prompt-based workflows.
+
+**Focus areas:** Image generation, image editing, multimodal AI, product visualization, OpenAI Image API, FastAPI
+
+---
+
+### [LLM Evaluation Toolkit](https://github.com/mallahim01/llm-evaluation-toolkit)
+
+A lightweight evaluation toolkit for testing LLM outputs across quality, structure, latency, token usage, and reliability metrics. The project helps simulate how AI teams can evaluate prompts, validate responses, and track model performance before using LLMs in production systems.
+
+**Focus areas:** LLM evaluation, response validation, model testing, observability, prompt quality, production AI reliability
+
+---
+
+### [Voice Briefing Agent with Whisper + TTS](https://github.com/mallahim01/voice-briefing-agent-whisper-tts)
+
+A voice intelligence workflow that converts audio into transcripts, summaries, action items, and spoken voice briefings using speech-to-text, LLM summarization, and text-to-speech generation.
+
+**Focus areas:** Whisper, speech-to-text, text-to-speech, audio summarization, voice AI, multimodal workflows
 
 ---
 
