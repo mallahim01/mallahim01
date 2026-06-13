@@ -32,6 +32,24 @@ This work includes experience with production-grade AI architecture, scalable ba
 
 The repositories below are public portfolio projects, demos, and architecture-focused implementations that reflect the type of AI systems, automation workflows, and backend products I work on.
 
+---
+
+### [HR Management Multi-Agent Orchestration](https://github.com/mallahim01/hr_management-multiagent_orchestration)
+
+An AI-powered HRMS concept using configurable multi-agent workflows to support recruitment, employee operations, HR automation, and internal assistance. The project includes multiple orchestration approaches such as LangGraph, CrewAI, Google ADK, and a custom implementation managed through a configuration-based setup.
+
+**Focus areas:** Multi-agent systems, LangGraph, CrewAI, Google ADK, HR automation, workflow orchestration, AI SaaS architecture
+
+---
+
+### [Architecture Product](https://github.com/mallahim01/architecture-product)
+
+A system design and architecture-focused repository exploring scalable backend architecture planning, AI product structure, and production-ready engineering patterns.
+
+**Focus areas:** System design, backend architecture, scalable AI products, product engineering
+
+---
+
 ### [Hybrid RAG System with Milvus + OpenAI](https://github.com/mallahim01/hybrid-rag-system_milvus-openai)
 
 A production-style Retrieval-Augmented Generation system using OpenAI embeddings, Milvus vector search, and LLM-based response generation.
@@ -40,11 +58,19 @@ A production-style Retrieval-Augmented Generation system using OpenAI embeddings
 
 ---
 
-### [HR Management Multi-Agent Orchestration](https://github.com/mallahim01/hr_management-multiagent_orchestration)
+### [Multi-Tenant AI SaaS](https://github.com/mallahim01/multi-tenant-ai-saas)
 
-An AI-powered HRMS concept using multi-agent workflows to support recruitment, employee operations, HR automation, and internal assistance.
+A FastAPI-based starter backend demonstrating how multi-tenant AI SaaS platforms can manage tenant-specific configurations, API access, usage limits, request logs, and model settings.
 
-**Focus areas:** Multi-agent systems, HR automation, workflow orchestration, AI SaaS architecture
+**Focus areas:** Multi-tenant architecture, AI SaaS platforms, tenant configuration, usage tracking, FastAPI
+
+---
+
+### [AI Gateway Guardrails](https://github.com/mallahim01/ai-gateway-guardrials)
+
+A lightweight AI gateway that wraps LLM requests with validation layers, policy guardrails, request logging, tenant simulation, and safer response handling.
+
+**Focus areas:** Responsible AI, LLM guardrails, AI governance, validation layers, enterprise LLM integration
 
 ---
 
@@ -52,23 +78,7 @@ An AI-powered HRMS concept using multi-agent workflows to support recruitment, e
 
 A backend automation system integrating WhatsApp workflows, third-party tools, and AI agent orchestration for business process automation.
 
-**Focus areas:** WhatsApp automation, AI agents, backend APIs, third-party integrations
-
----
-
-### [Architecture Product](https://github.com/mallahim01/architecture-product)
-
-A system design and architecture-focused repository exploring scalable backend, AI product architecture, and production-ready engineering patterns.
-
-**Focus areas:** System design, backend architecture, scalable AI products
-
----
-
-### [CRM Projects and Resource Management](https://github.com/mallahim01/crm_projects-and-resource-management)
-
-A CRM and resource management system concept designed to manage projects, clients, teams, and operational workflows.
-
-**Focus areas:** CRM systems, project management, backend architecture, business automation
+**Focus areas:** WhatsApp automation, AI agents, backend APIs, webhooks, third-party integrations
 
 ---
 
