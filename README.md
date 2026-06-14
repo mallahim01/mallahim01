@@ -100,10 +100,10 @@ A multimodal AI product image studio that supports image generation, image editi
 
 ## 🧪 More Public Work
 
-* [Gemma VLM Realtime Video Intelligence](https://github.com/mallahim01/gemma-vlm-realtime-video-intelligence) — local realtime video understanding with Gemma, Ollama, OpenCV, and JSON-structured VLM outputs.
+* [Gemma VLM Realtime Video Intelligence](https://github.com/mallahim01/gemma4-vlm-realtime-video-intelligence) — local realtime video understanding with Gemma, Ollama, OpenCV, and JSON-structured VLM outputs.
 * [Applied Computer Vision Lab](https://github.com/mallahim01/applied-computer-vision-lab) — YOLO-based detection, OCR, tracking, virtual gate counting, pose/keypoint detection, and video analytics.
 * [Voice Briefing Agent with Whisper + TTS](https://github.com/mallahim01/voice-briefing-agent-whisper-tts) — audio transcription, summarization, action item extraction, and voice briefing generation.
-* [AiVentax Support Agent with LangGraph](https://github.com/mallahim01/aiventax-support-agent-langgraph) — LangGraph-based customer support workflow with routing, tickets, policy checks, and audit logs.
+* [AiVentax Support Agent with LangGraph](https://github.com/mallahim01/langgraph-support-operations-agent) — LangGraph-based customer support workflow with routing, tickets, policy checks, and audit logs.
 * [Agentic Orchestration with Adalo + WhatsApp Integration](https://github.com/mallahim01/agentic-orchestration_adalo-whatsapp-integration) — WhatsApp automation, backend APIs, webhooks, and third-party integrations.
 
 ---
