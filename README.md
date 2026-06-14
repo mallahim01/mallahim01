@@ -98,6 +98,22 @@ A lightweight AI gateway that wraps LLM requests with validation layers, policy 
 
 ---
 
+### [Agentic AI Frameworks Lab](https://github.com/mallahim01/agentic-ai-frameworks-lab)
+
+A practical, interview-ready repository for learning and comparing major agentic AI frameworks through small implementations, deterministic local tools, mocked tests, sample logs, and study notes. The project covers LangGraph, Google ADK, CrewAI, Agno, OpenAI Agents SDK, and custom agent patterns.
+
+**Focus areas:** Agentic AI frameworks, LangGraph, CrewAI, Google ADK, Agno, OpenAI Agents SDK, testing, orchestration patterns, framework tradeoffs
+
+---
+
+### [AiVentax Support Agent with LangGraph](https://github.com/mallahim01/aiventax-support-agent-langgraph)
+
+A LangGraph-based customer support operations case study for a software agency workflow. The system checks policy guardrails, classifies customer intent, routes requests to specialist nodes, answers FAQ-style queries, creates support tickets, assigns employees, writes audit logs, and returns structured customer-facing responses.
+
+**Focus areas:** LangGraph, customer support automation, intent routing, policy guardrails, ticket creation, employee assignment, audit logging, stateful agent workflows
+
+---
+
 ### [Agentic Orchestration with Adalo + WhatsApp Integration](https://github.com/mallahim01/agentic-orchestration_adalo-whatsapp-integration)
 
 A backend automation system integrating WhatsApp workflows, third-party tools, and AI agent orchestration for business process automation.
