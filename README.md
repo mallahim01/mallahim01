@@ -106,7 +106,7 @@ A practical, interview-ready repository for learning and comparing major agentic
 
 ---
 
-### [AiVentax Support Agent with LangGraph](https://github.com/mallahim01/aiventax-support-agent-langgraph)
+### [AiVentax Support Agent with LangGraph](https://github.com/mallahim01/langgraph-support-operations-agent)
 
 A LangGraph-based customer support operations case study for a software agency workflow. The system checks policy guardrails, classifies customer intent, routes requests to specialist nodes, answers FAQ-style queries, creates support tickets, assigns employees, writes audit logs, and returns structured customer-facing responses.
 
