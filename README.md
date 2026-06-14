@@ -28,7 +28,7 @@ I have contributed to enterprise AI products, marketplace platforms, automation 
 
 This work includes experience with production-grade AI architecture, scalable backend systems, LLM applications, API integrations, automation workflows, and real-world deployment challenges.
 
-## 📌 Public GitHub Projects
+## 📌 Selected Public GitHub Projects
 
 The repositories below are public portfolio projects, demos, and architecture-focused implementations that reflect the type of AI systems, automation workflows, and backend products I work on.
 
@@ -36,9 +36,17 @@ The repositories below are public portfolio projects, demos, and architecture-fo
 
 ### [HR Management Multi-Agent Orchestration](https://github.com/mallahim01/hr_management-multiagent_orchestration)
 
-An AI-powered HRMS concept using configurable multi-agent workflows to support recruitment, employee operations, HR automation, and internal assistance. The project includes multiple orchestration approaches such as LangGraph, CrewAI, Google ADK, and a custom implementation managed through a configuration-based setup.
+A configurable multi-agent HRMS concept supporting recruitment, employee operations, HR automation, and internal assistance. The project includes LangGraph, CrewAI, Google ADK, and a custom orchestration implementation managed through configuration.
 
-**Focus areas:** Multi-agent systems, LangGraph, CrewAI, Google ADK, HR automation, workflow orchestration, AI SaaS architecture
+**Focus areas:** Multi-agent systems, LangGraph, CrewAI, Google ADK, HR automation, workflow orchestration
+
+---
+
+### [Agentic AI Frameworks Lab](https://github.com/mallahim01/agentic-ai-frameworks-lab)
+
+A practical repository for learning and comparing major agentic AI frameworks through small implementations, deterministic tools, mocked tests, sample logs, and study notes.
+
+**Focus areas:** LangGraph, CrewAI, Google ADK, Agno, OpenAI Agents SDK, testing, orchestration patterns
 
 ---
 
@@ -46,15 +54,7 @@ An AI-powered HRMS concept using configurable multi-agent workflows to support r
 
 An AI-assisted software architecture planning backend that guides users through structured product discovery conversations, captures requirements in stages, maintains durable chat context, and generates architecture-ready requirement documentation.
 
-**Focus areas:** AI architecture planning, product discovery, requirement generation, staged LLM workflows, persistent chat context, FastAPI backend
-
----
-
-### [Hybrid RAG System with Milvus + OpenAI](https://github.com/mallahim01/hybrid-rag-system_milvus-openai)
-
-A production-style Retrieval-Augmented Generation system using OpenAI embeddings, Milvus hybrid vector search, and LLM-based response generation.
-
-**Focus areas:** RAG architecture, semantic search, vector databases, LLM pipelines
+**Focus areas:** AI architecture planning, product discovery, requirement generation, staged LLM workflows, FastAPI
 
 ---
 
@@ -66,31 +66,7 @@ A FastAPI-based starter backend demonstrating how multi-tenant AI SaaS platforms
 
 ---
 
-### [AI Image Generation Studio](https://github.com/mallahim01/ai-image-gen-studio)
-
-A multimodal AI product image studio that supports image generation, image editing, and multi-angle product preview generation using the OpenAI API. The project demonstrates how AI can be used to create and modify product visuals through prompt-based workflows.
-
-**Focus areas:** Image generation, image editing, multimodal AI, product visualization, OpenAI Image API, FastAPI
-
----
-
-### [LLM Evaluation Toolkit](https://github.com/mallahim01/llm-evaluation-toolkit)
-
-A lightweight evaluation toolkit for testing LLM outputs across quality, structure, latency, token usage, and reliability metrics. The project helps simulate how AI teams can evaluate prompts, validate responses, and track model performance before using LLMs in production systems.
-
-**Focus areas:** LLM evaluation, response validation, model testing, observability, prompt quality, production AI reliability
-
----
-
-### [Voice Briefing Agent with Whisper + TTS](https://github.com/mallahim01/voice-briefing-agent-whisper-tts)
-
-A voice intelligence workflow that converts audio into transcripts, summaries, action items, and spoken voice briefings using speech-to-text, LLM summarization, and text-to-speech generation.
-
-**Focus areas:** Whisper, speech-to-text, text-to-speech, audio summarization, voice AI, multimodal workflows
-
----
-
-### [AI Gateway Guardrails](https://github.com/mallahim01/ai-gateway-guardrials)
+### [AI Gateway Guardrails](https://github.com/mallahim01/ai-gateway-guardrails)
 
 A lightweight AI gateway that wraps LLM requests with validation layers, policy guardrails, request logging, tenant simulation, and safer response handling.
 
@@ -98,27 +74,37 @@ A lightweight AI gateway that wraps LLM requests with validation layers, policy 
 
 ---
 
-### [Agentic AI Frameworks Lab](https://github.com/mallahim01/agentic-ai-frameworks-lab)
+### [LLM Evaluation Toolkit](https://github.com/mallahim01/llm-evaluation-toolkit)
 
-A practical, interview-ready repository for learning and comparing major agentic AI frameworks through small implementations, deterministic local tools, mocked tests, sample logs, and study notes. The project covers LangGraph, Google ADK, CrewAI, Agno, OpenAI Agents SDK, and custom agent patterns.
+A lightweight evaluation toolkit for testing LLM outputs across quality, structure, latency, token usage, and reliability metrics before using LLMs in production systems.
 
-**Focus areas:** Agentic AI frameworks, LangGraph, CrewAI, Google ADK, Agno, OpenAI Agents SDK, testing, orchestration patterns, framework tradeoffs
-
----
-
-### [AiVentax Support Agent with LangGraph](https://github.com/mallahim01/langgraph-support-operations-agent)
-
-A LangGraph-based customer support operations case study for a software agency workflow. The system checks policy guardrails, classifies customer intent, routes requests to specialist nodes, answers FAQ-style queries, creates support tickets, assigns employees, writes audit logs, and returns structured customer-facing responses.
-
-**Focus areas:** LangGraph, customer support automation, intent routing, policy guardrails, ticket creation, employee assignment, audit logging, stateful agent workflows
+**Focus areas:** LLM evaluation, response validation, model testing, observability, prompt quality
 
 ---
 
-### [Agentic Orchestration with Adalo + WhatsApp Integration](https://github.com/mallahim01/agentic-orchestration_adalo-whatsapp-integration)
+### [Hybrid RAG System with Milvus + OpenAI](https://github.com/mallahim01/hybrid-rag-system_milvus-openai)
 
-A backend automation system integrating WhatsApp workflows, third-party tools, and AI agent orchestration for business process automation.
+A production-style Retrieval-Augmented Generation system using OpenAI embeddings, Milvus hybrid vector search, and LLM-based response generation.
 
-**Focus areas:** WhatsApp automation, AI agents, backend APIs, webhooks, third-party integrations
+**Focus areas:** RAG architecture, semantic search, vector databases, LLM pipelines
+
+---
+
+### [AI Image Generation Studio](https://github.com/mallahim01/ai-image-gen-studio)
+
+A multimodal AI product image studio that supports image generation, image editing, and multi-angle product preview generation using the OpenAI API.
+
+**Focus areas:** Image generation, image editing, multimodal AI, product visualization, OpenAI Image API
+
+---
+
+## 🧪 More Public Work
+
+* [Gemma VLM Realtime Video Intelligence](https://github.com/mallahim01/gemma-vlm-realtime-video-intelligence) — local realtime video understanding with Gemma, Ollama, OpenCV, and JSON-structured VLM outputs.
+* [Applied Computer Vision Lab](https://github.com/mallahim01/applied-computer-vision-lab) — YOLO-based detection, OCR, tracking, virtual gate counting, pose/keypoint detection, and video analytics.
+* [Voice Briefing Agent with Whisper + TTS](https://github.com/mallahim01/voice-briefing-agent-whisper-tts) — audio transcription, summarization, action item extraction, and voice briefing generation.
+* [AiVentax Support Agent with LangGraph](https://github.com/mallahim01/aiventax-support-agent-langgraph) — LangGraph-based customer support workflow with routing, tickets, policy checks, and audit logs.
+* [Agentic Orchestration with Adalo + WhatsApp Integration](https://github.com/mallahim01/agentic-orchestration_adalo-whatsapp-integration) — WhatsApp automation, backend APIs, webhooks, and third-party integrations.
 
 ---
 
